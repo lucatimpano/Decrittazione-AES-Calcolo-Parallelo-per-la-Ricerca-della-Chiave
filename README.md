@@ -1,5 +1,6 @@
 # Decrittazione-AES-Calcolo-Parallelo-per-la-Ricerca-della-Chiave
-
+University Project
+Università della Calabria
 ## Overview
 
 This repository contains Java code for a multi-threaded AES encryption key search tool. The tool is designed to decrypt a given file encrypted using AES encryption with an unknown key. It utilizes parallel processing to speed up the search process by distributing the workload across multiple threads.
